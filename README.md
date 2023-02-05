@@ -4,7 +4,7 @@
 
 ### Usage-
 * First clone the repo by-
-```git clone https://github.com/S-hre29ya07/Fyle-submission.git```
+```git clone https://github.com/S-hre29ya07/RapidKen.git```
 * Install the dependencies by-
 ```npm install```
 * Run the project-
